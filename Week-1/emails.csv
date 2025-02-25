@@ -1,0 +1,51 @@
+sender,recipient,subject,body,timestamp,label
+charlie@example.com,tom@example.com,Your Order Confirmation,Please find the attached invoice for your recent purchase.,2025-02-19 21:38:58,Not Spam
+eve@example.com,john@example.com,Special Offer!,"Your account was accessed from an unknown device. If this wasn't you, reset your password.",2025-02-18 01:38:58,Not Spam
+alice@example.com,tom@example.com,Invoice Attached,Don't forget our meeting at 3 PM today.,2025-02-08 17:38:58,Not Spam
+charlie@example.com,tom@example.com,Meeting Reminder,"Your account was accessed from an unknown device. If this wasn't you, reset your password.",2025-01-22 21:38:58,Spam
+eve@example.com,mike@example.com,Invoice Attached,Please find the attached invoice for your recent purchase.,2025-02-04 22:38:58,Spam
+charlie@example.com,mike@example.com,Security Alert,Your order #12345 has been confirmed and will be shipped soon.,2025-02-17 03:38:58,Spam
+eve@example.com,kate@example.com,Security Alert,Don't forget our meeting at 3 PM today.,2025-01-29 23:38:58,Not Spam
+dave@example.com,kate@example.com,Invoice Attached,Don't forget our meeting at 3 PM today.,2025-01-31 14:38:58,Not Spam
+bob@example.com,mike@example.com,Invoice Attached,Exclusive discount just for you! Get 50% off on all products.,2025-01-09 04:38:58,Spam
+bob@example.com,john@example.com,Invoice Attached,"Your account was accessed from an unknown device. If this wasn't you, reset your password.",2025-02-17 03:38:58,Not Spam
+dave@example.com,mike@example.com,Special Offer!,Exclusive discount just for you! Get 50% off on all products.,2025-01-11 21:38:58,Not Spam
+alice@example.com,susan@example.com,Special Offer!,Please find the attached invoice for your recent purchase.,2025-02-06 06:38:58,Spam
+bob@example.com,kate@example.com,Your Order Confirmation,Please find the attached invoice for your recent purchase.,2025-01-22 19:38:58,Not Spam
+dave@example.com,mike@example.com,Security Alert,Exclusive discount just for you! Get 50% off on all products.,2025-02-11 17:38:58,Not Spam
+bob@example.com,mike@example.com,Your Order Confirmation,Please find the attached invoice for your recent purchase.,2025-01-25 07:38:58,Not Spam
+dave@example.com,kate@example.com,Your Order Confirmation,Exclusive discount just for you! Get 50% off on all products.,2024-12-31 05:38:58,Not Spam
+charlie@example.com,tom@example.com,Your Order Confirmation,"Your account was accessed from an unknown device. If this wasn't you, reset your password.",2025-01-19 23:38:58,Spam
+bob@example.com,john@example.com,Security Alert,Exclusive discount just for you! Get 50% off on all products.,2025-01-20 22:38:58,Not Spam
+alice@example.com,susan@example.com,Special Offer!,Please find the attached invoice for your recent purchase.,2025-01-02 19:38:58,Not Spam
+alice@example.com,tom@example.com,Special Offer!,Don't forget our meeting at 3 PM today.,2025-01-03 15:38:58,Spam
+eve@example.com,tom@example.com,Meeting Reminder,Your order #12345 has been confirmed and will be shipped soon.,2025-01-06 14:38:58,Spam
+bob@example.com,john@example.com,Invoice Attached,Exclusive discount just for you! Get 50% off on all products.,2025-01-18 09:38:58,Spam
+bob@example.com,mike@example.com,Meeting Reminder,Please find the attached invoice for your recent purchase.,2024-12-31 12:38:58,Not Spam
+charlie@example.com,mike@example.com,Invoice Attached,Exclusive discount just for you! Get 50% off on all products.,2025-01-30 23:38:58,Spam
+eve@example.com,kate@example.com,Security Alert,Exclusive discount just for you! Get 50% off on all products.,2025-02-18 18:38:58,Not Spam
+dave@example.com,mike@example.com,Special Offer!,Don't forget our meeting at 3 PM today.,2025-01-16 15:38:58,Not Spam
+eve@example.com,susan@example.com,Your Order Confirmation,Please find the attached invoice for your recent purchase.,2025-02-15 12:38:58,Not Spam
+dave@example.com,john@example.com,Your Order Confirmation,Exclusive discount just for you! Get 50% off on all products.,2025-01-18 13:38:58,Spam
+dave@example.com,mike@example.com,Your Order Confirmation,Don't forget our meeting at 3 PM today.,2025-02-11 03:38:58,Not Spam
+dave@example.com,kate@example.com,Invoice Attached,Don't forget our meeting at 3 PM today.,2025-02-18 16:38:58,Spam
+dave@example.com,kate@example.com,Invoice Attached,Please find the attached invoice for your recent purchase.,2025-02-19 13:38:58,Spam
+charlie@example.com,mike@example.com,Your Order Confirmation,"Your account was accessed from an unknown device. If this wasn't you, reset your password.",2025-01-12 14:38:58,Not Spam
+dave@example.com,kate@example.com,Your Order Confirmation,Your order #12345 has been confirmed and will be shipped soon.,2025-02-04 05:38:58,Not Spam
+dave@example.com,mike@example.com,Invoice Attached,Your order #12345 has been confirmed and will be shipped soon.,2025-01-25 23:38:58,Not Spam
+bob@example.com,john@example.com,Invoice Attached,Don't forget our meeting at 3 PM today.,2025-02-11 09:38:58,Not Spam
+eve@example.com,susan@example.com,Invoice Attached,Don't forget our meeting at 3 PM today.,2025-02-14 01:38:58,Spam
+bob@example.com,mike@example.com,Your Order Confirmation,Don't forget our meeting at 3 PM today.,2025-02-11 16:38:58,Not Spam
+alice@example.com,susan@example.com,Invoice Attached,Your order #12345 has been confirmed and will be shipped soon.,2025-01-28 13:38:58,Spam
+eve@example.com,mike@example.com,Your Order Confirmation,Exclusive discount just for you! Get 50% off on all products.,2025-02-06 03:38:58,Spam
+eve@example.com,john@example.com,Security Alert,Don't forget our meeting at 3 PM today.,2025-01-02 19:38:58,Spam
+alice@example.com,kate@example.com,Security Alert,Please find the attached invoice for your recent purchase.,2025-01-30 12:38:58,Not Spam
+eve@example.com,kate@example.com,Invoice Attached,"Your account was accessed from an unknown device. If this wasn't you, reset your password.",2025-01-02 17:38:58,Spam
+dave@example.com,tom@example.com,Security Alert,Exclusive discount just for you! Get 50% off on all products.,2025-01-11 21:38:58,Not Spam
+dave@example.com,susan@example.com,Meeting Reminder,Exclusive discount just for you! Get 50% off on all products.,2025-02-05 14:38:58,Not Spam
+bob@example.com,john@example.com,Meeting Reminder,"Your account was accessed from an unknown device. If this wasn't you, reset your password.",2025-01-21 07:38:58,Spam
+dave@example.com,mike@example.com,Security Alert,Your order #12345 has been confirmed and will be shipped soon.,2025-01-11 00:38:58,Not Spam
+charlie@example.com,susan@example.com,Your Order Confirmation,Please find the attached invoice for your recent purchase.,2025-02-15 01:38:58,Spam
+charlie@example.com,john@example.com,Your Order Confirmation,"Your account was accessed from an unknown device. If this wasn't you, reset your password.",2025-01-19 09:38:58,Not Spam
+alice@example.com,mike@example.com,Invoice Attached,Don't forget our meeting at 3 PM today.,2025-01-13 17:38:58,Spam
+eve@example.com,mike@example.com,Security Alert,Don't forget our meeting at 3 PM today.,2025-01-06 04:38:58,Not Spam
